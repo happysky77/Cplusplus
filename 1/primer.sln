@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "primer", "primer\primer.vcxproj", "{8D9286B7-5C1A-4AA9-A120-F0613A3DC4AE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "One", "One\One.vcxproj", "{2F5C8A18-1244-4A3E-91EA-78080E200F9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D9286B7-5C1A-4AA9-A120-F0613A3DC4AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8D9286B7-5C1A-4AA9-A120-F0613A3DC4AE}.Debug|Win32.Build.0 = Debug|Win32
+		{8D9286B7-5C1A-4AA9-A120-F0613A3DC4AE}.Release|Win32.ActiveCfg = Release|Win32
+		{8D9286B7-5C1A-4AA9-A120-F0613A3DC4AE}.Release|Win32.Build.0 = Release|Win32
+		{2F5C8A18-1244-4A3E-91EA-78080E200F9B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2F5C8A18-1244-4A3E-91EA-78080E200F9B}.Debug|Win32.Build.0 = Debug|Win32
+		{2F5C8A18-1244-4A3E-91EA-78080E200F9B}.Release|Win32.ActiveCfg = Release|Win32
+		{2F5C8A18-1244-4A3E-91EA-78080E200F9B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
